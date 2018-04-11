@@ -1,0 +1,30 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+@model form_submission.Models.User
+
+<form asp-controller="Home" asp-action="SubmitForm" method="post">
+    <label asp-for="firstname"></label>
+    <input asp-for="firstname"/>
+    <span asp-validation-for="firstname"></span>
+    <hr>
+    <label asp-for="lastname"></label>
+    <input asp-for="lastname"/>
+    <span asp-validation-for="lastname"></span>
+    <hr>
+    <label asp-for="age"></label>
+    <input asp-for="age"/>
+    <span asp-validation-for="age"></span>
+    <hr>
+    <label asp-for="email"></label>
+    <input asp-for="email"/>
+    <span asp-validation-for="email"></span>
+    <hr>
+    <label asp-for="password"></label>
+    <input asp-for="password"/>
+    <span asp-validation-for="password"></span>
+    <hr>
+    <button type="submit">Create new User</button>
+</form>
+

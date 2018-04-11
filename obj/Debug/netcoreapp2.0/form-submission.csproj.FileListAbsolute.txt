@@ -1,0 +1,10 @@
+C:\Users\eclai\Desktop\DojoAssignments\netCore\ASP.NET Core Intermediate\form-submission\bin\Debug\netcoreapp2.0\form-submission.deps.json
+C:\Users\eclai\Desktop\DojoAssignments\netCore\ASP.NET Core Intermediate\form-submission\bin\Debug\netcoreapp2.0\form-submission.runtimeconfig.json
+C:\Users\eclai\Desktop\DojoAssignments\netCore\ASP.NET Core Intermediate\form-submission\bin\Debug\netcoreapp2.0\form-submission.runtimeconfig.dev.json
+C:\Users\eclai\Desktop\DojoAssignments\netCore\ASP.NET Core Intermediate\form-submission\bin\Debug\netcoreapp2.0\form-submission.dll
+C:\Users\eclai\Desktop\DojoAssignments\netCore\ASP.NET Core Intermediate\form-submission\bin\Debug\netcoreapp2.0\form-submission.pdb
+C:\Users\eclai\Desktop\DojoAssignments\netCore\ASP.NET Core Intermediate\form-submission\obj\Debug\netcoreapp2.0\form-submission.csproj.CoreCompileInputs.cache
+C:\Users\eclai\Desktop\DojoAssignments\netCore\ASP.NET Core Intermediate\form-submission\obj\Debug\netcoreapp2.0\form-submission.AssemblyInfoInputs.cache
+C:\Users\eclai\Desktop\DojoAssignments\netCore\ASP.NET Core Intermediate\form-submission\obj\Debug\netcoreapp2.0\form-submission.AssemblyInfo.cs
+C:\Users\eclai\Desktop\DojoAssignments\netCore\ASP.NET Core Intermediate\form-submission\obj\Debug\netcoreapp2.0\form-submission.dll
+C:\Users\eclai\Desktop\DojoAssignments\netCore\ASP.NET Core Intermediate\form-submission\obj\Debug\netcoreapp2.0\form-submission.pdb
